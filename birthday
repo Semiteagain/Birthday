@@ -1,0 +1,40 @@
+<html>
+
+<head>
+  <a href="https" href="style.css">
+</head>
+
+<body>
+
+  <h1>Project Showcase</h1>
+  <p>
+    I've been learning to create website wth code
+    <a href="https://www.codeclub.org.uk">code club</a>. I'm also learning at
+    <a href="https://learn.freecodecamp.org">freecodecamp</a>
+  </p>
+
+  <h2>Happy Birthday</h2>
+  <p>The <a href="https://trinket.io/html/e996dc0380">Happy Birthday project.</a>
+  </p>
+
+  <h2>Tell a Story</h2>
+  <p>The <a href="https://trinket.io/html/c8afdef912">Tell a Story project.</a>
+  </p>
+
+  <h2>Wanted</h2>
+  <p>The <a href="https://trinket.io/html/ebeb56398a">Wanted project.</a>
+  </p>
+
+  <h2>Recipe</h2>
+  <p>The <a href="https://trinket.io/html/c0fd9b40cd">Recipe project.</a>
+
+  </p>
+
+  <h2>Mystery Letter</h2>
+  <p>The <a href="https://trinket.io/html/1d4d4c5ce1">Anonymous Letter.</a>
+
+  </p>
+
+</body>
+
+</html>
